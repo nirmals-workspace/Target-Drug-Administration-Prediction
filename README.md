@@ -6,8 +6,8 @@ The objective of this project is to predict, 30 days in advance, whether a patie
 
 Before you begin, you will need to have a few tools and libraries installed on your machine:
 
-Python 3.7 or higher.
-Sklearn, XGBoost, Pandas
+- Python 3.7 or higher.
+- Sklearn, XGBoost, Pandas
 
 ## Data Inferences
 
